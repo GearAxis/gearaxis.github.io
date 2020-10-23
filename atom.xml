@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-23T09:10:08.507Z</updated>
+  <updated>2020-10-23T09:14:48.434Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2020/10/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/2020/10/23/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-10-23T08:51:10.000Z</published>
-    <updated>2020-10-23T09:10:08.507Z</updated>
+    <updated>2020-10-23T09:14:48.434Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h1><p>这是我发送的第一篇博客，将会进行各种各样的语法测试。</p><p>首先是Todolist</p><p>Todo</p><ul><li><input checked="" disabled="" type="checkbox"> 搭建好博客环境</li><li>[] 月底看完计算机组成原理</li><li>[] 搭建完播客并上传一段音乐作为播客开头专用音乐</li><li>[] 月底看完高数</li><li>[] 刷一套卷子</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h1><p>这是我发送的第一篇博客，将会进行各种各样的语法测试。</p><p>首先是Todolist</p><p>Todo</p><ul><li><input checked="" disabled="" type="checkbox"> 搭建好博客环境</li><li><input disabled="" type="checkbox"> 月底看完计算机组成原理</li><li><input disabled="" type="checkbox"> 搭建完播客并上传一段音乐作为播客开头专用音乐</li><li><input disabled="" type="checkbox"> 月底看完高数</li><li><input disabled="" type="checkbox"> 刷一套卷子</li></ul>]]></content>
     
     
       
